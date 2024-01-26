@@ -7,6 +7,6 @@
 		<title></title>
 	</head>
 	<body>
-	pjs
+	pjs 변경합니다.
 	</body>
 </html>
